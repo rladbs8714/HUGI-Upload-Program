@@ -1,0 +1,4 @@
+1. 같이 포함된 'BusinessManagement'폴더를 '내 문서'폴더에 옮김니다.
+2. 프로그램을 실행합니다.
+
+// BusinessManagement폴더는 사이트별 셋팅들이 있는 폴더입니다.
